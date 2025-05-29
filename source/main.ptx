@@ -5,7 +5,7 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>Statistics and Probability for Preservice Teachers</title>
+    <title>Statistical Analysis for Preservice Teachers</title>
     <subtitle>An Investigative Approach</subtitle>
 
     <!-- Include frontmatter -->
